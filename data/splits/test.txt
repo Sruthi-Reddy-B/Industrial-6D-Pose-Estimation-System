@@ -1,1 +1,2 @@
-
+# Example test split file
+test/image_001.jpg 0.52 0.32 1.22 0.11 0.21 0.31
