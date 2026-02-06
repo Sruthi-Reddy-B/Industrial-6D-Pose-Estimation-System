@@ -1,1 +1,7 @@
+# Example training split file
+# Format: <image_path> <label_1> <label_2> ... <label_6>
+# Labels represent 6D pose: x, y, z, roll, pitch, yaw
 
+train/image_001.jpg 0.5 0.3 1.2 0.1 0.2 0.3
+train/image_002.jpg 0.6 0.4 1.3 0.15 0.25 0.35
+train/image_003.jpg 0.7 0.5 1.4 0.2 0.3 0.4
