@@ -1,1 +1,7 @@
-torch opencv-python numpy albumentations yaml
+torch
+torchvision
+numpy
+opencv-python
+h5py
+pyyaml
+tqdm
