@@ -1,1 +1,4 @@
-
+hdf5_path: data/processed/dataset.h5
+batch_size: 8
+num_workers: 4
+image_size: [480, 640]
