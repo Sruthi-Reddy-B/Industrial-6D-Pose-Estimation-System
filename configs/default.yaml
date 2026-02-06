@@ -1,1 +1,11 @@
+dataset:
+image_dir: data/images
+label_dir: data/labels
+train_split: data/splits/train.txt
+val_split: data/splits/val.txt
 
+
+training:
+batch_size: 16
+num_epochs: 50
+learning_rate: 0.001
