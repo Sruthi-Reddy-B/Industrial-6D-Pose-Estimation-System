@@ -1,8 +1,6 @@
-# Data Folder
+Each subfolder here represents one experiment run.
 
-Structure:
-- images/: jpg/png images
-- labels/: txt/csv labels
-- splits/: train/val/test text files listing image names
-
-No actual data included.
+Store:
+- Trained models
+- Training logs
+- Evaluation results
