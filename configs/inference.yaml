@@ -1,1 +1,3 @@
+model_path: experiments/exp_001/model.pth
+image_size: [480, 640]
 
