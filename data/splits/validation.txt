@@ -1,1 +1,2 @@
-
+# Example validation split file
+val/image_001.jpg 0.55 0.35 1.25 0.12 0.22 0.32
