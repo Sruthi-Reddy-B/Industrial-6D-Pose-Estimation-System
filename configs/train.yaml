@@ -1,1 +1,11 @@
+dataset:
+  hdf5_path: data/processed/dataset.h5
+  batch_size: 8
+  num_workers: 4
+  image_size: [480, 640]
+
+training:
+  epochs: 10
+  lr: 0.001
+  save_path: experiments/exp_001
 
